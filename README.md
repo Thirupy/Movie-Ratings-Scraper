@@ -45,6 +45,7 @@ The script will create a DataFrame with the following columns:
 - **`scraper.py`:** Main Python script containing the scraping logic.
 - **`requirements.txt`:** Lists required Python libraries.
 - **`links.csv` and `ratings.csv`:** Datasets.
+- **`webScrapping.ipynb`:** Sample output.
 
 ## Key Features
 
